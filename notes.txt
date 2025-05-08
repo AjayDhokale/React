@@ -1,0 +1,62 @@
+pnpm i
+pnpm i axios react-router-dom react-icons tailwindcss @tailwindcss/vite 
+
+
+
+
+Redux state management librery
+- avoid prop-drilling
+- centrailized libreary
+- easy debug
+- larger application
+
+Steps for Redux
+
+#1. install redux-toolkit
+  - pnpm i react-redux @reduxjs/toolkit
+#2. configure (create) store
+  - every app must have a single store.
+#3. provide store to app
+
+#4. create slices (features)
+  - createSlice
+  - slice must have name, initailValue, reducers
+#5. useSelector(), useDispatch()
+
+
+
+
+
+GITHUB
+
+1. Git bash install
+
+2 . generate token 
+    - settings
+    - developeer settings
+    - personal access token
+    - tokens classic
+    - generate token 
+    - copy token
+
+3. manage windows credentials
+    - git:https://github.com
+    - edit
+    - change usename as github username
+    - change password as token 
+
+4. Open Git bash
+  - cmd:   $ git config --global user.name "AjayDhokale"
+  - cmd:   $ git config --global user.email "ajaydhokale1508@gmail.com"
+  - cmd:   $ git config --list
+
+5. open vs code
+  - click on profile icons
+  - sign in via github account
+      - if not sign in  go to 'Backup and Sync setting..'  and then sign in
+
+6. Source Control
+    - click on initailize Repository
+    - give message and click on cummit
+    - 
+    - 
