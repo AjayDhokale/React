@@ -58,5 +58,15 @@ GITHUB
 6. Source Control
     - click on initailize Repository
     - give message and click on commit
-    - publish
-    - 
+    - Publish Branch
+    - select public or private Repository
+
+7. Check github repository  
+
+8. after making changes in Proejct
+  - go to source Control
+  - give massage and commmit
+  - Sync changes
+
+9. check changes on github
+ 
