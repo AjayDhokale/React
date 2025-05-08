@@ -57,6 +57,6 @@ GITHUB
 
 6. Source Control
     - click on initailize Repository
-    - give message and click on cummit
-    - 
+    - give message and click on commit
+    - publish
     - 
