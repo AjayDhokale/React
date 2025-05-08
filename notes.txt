@@ -1,5 +1,6 @@
 pnpm i
-pnpm i axios react-router-dom react-icons tailwindcss @tailwindcss/vite 
+pnpm i axios react-router-dom react-icons react-redux 
+pnpm i tailwindcss @tailwindcss/vite 
 
 
 
@@ -72,4 +73,4 @@ GITHUB
 
 10. for History
   - go to the commits in the repo
-  
+
