@@ -69,4 +69,7 @@ GITHUB
   - Sync changes
 
 9. check changes on github
- 
+
+10. for History
+  - go to the commits in the repo
+  
